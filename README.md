@@ -50,3 +50,5 @@
 [instagram]: https://www.instagram.com/jindal_avinash
 [linkedin]: https://www.linkedin.com/in/avinash-jindal-25b717189/
 
+
+[![An image of @avinashjindal786's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/avinashjindal786)](https://holopin.io/@avinashjindal786)
